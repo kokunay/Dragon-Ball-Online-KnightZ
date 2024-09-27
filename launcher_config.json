@@ -1,0 +1,20 @@
+
+{
+	"clientVersion": "1.70",
+	"launcherVersion": "1.1",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "",
+	"newClientUrl" : "http://135.148.10.130/update/patch/build.zip",
+	"clientExecutable": "Build/KnightZ.exe"
+}
