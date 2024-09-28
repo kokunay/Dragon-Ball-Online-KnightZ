@@ -1,6 +1,6 @@
 
 {
-	"clientVersion": "1.70",
+	"clientVersion": "1.79",
 	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,7 +14,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Build",
+	"clientFolder": "KnightZ",
 	"newClientUrl" : "http://135.148.10.130/update/patch/KnightZ.zip",
 	"clientExecutable": "KnightZ.exe"
 }
