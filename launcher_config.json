@@ -15,6 +15,6 @@
 		}
 	],
 	"clientFolder": "Build",
-	"newClientUrl" : "https://github.com/kokunay/Dragon-Ball-Online-KnightZ/raw/refs/heads/master/build.zip",
+	"newClientUrl" : "http://135.148.10.130/update/patch/KnightZ.zip",
 	"clientExecutable": "Build/KnightZ.exe"
 }
