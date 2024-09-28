@@ -1,7 +1,6 @@
-
 {
-	"clientVersion": "1.70",
-	"launcherVersion": "1.1",
+	"clientVersion": "1.79.0",
+	"launcherVersion": "1.2",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -14,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Build",
-	"newClientUrl" : "http://135.148.10.130/update/patch/build.zip",
-	"clientExecutable": "Build/KnightZ.exe"
+	"clientFolder": "",
+	"newClientUrl" : "https://github.com/kokunay/Dragon-Ball-Online-KnightZ/raw/refs/heads/main/build.zip",
+	"clientExecutable": "KnightZ"
 }
