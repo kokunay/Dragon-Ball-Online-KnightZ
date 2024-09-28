@@ -16,5 +16,5 @@
 	],
 	"clientFolder": "Build",
 	"newClientUrl" : "http://135.148.10.130/update/patch/KnightZ.zip",
-	"clientExecutable": "Build/KnightZ.exe"
+	"clientExecutable": "KnightZ.exe"
 }
